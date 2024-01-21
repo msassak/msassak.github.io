@@ -1,2 +1,3 @@
+- [Python and nix on macOS](/nix-python): a simple way to bootstrap an isolated Python environment with nix on macOS.
 - [Test page](/test)
 - [Doesn't exist](/dne)
